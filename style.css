@@ -1,0 +1,71 @@
+body{
+	background-color: #1bb348;
+	font-family: arial;
+}
+
+h1{
+	background-color: #b316c4 ; 
+	border: solid 1px black;
+	border-radius: 4px;
+	color: #fcba03 ;
+	font-weight: 5px; 
+	height: 40px;
+	width: 224px;
+
+}
+
+
+
+.test{
+	border: solid 1px black;
+	border-radius: 4px;
+
+	height: 20px;
+	background-color: #b316c4 ;
+	color: #fcba03;
+	
+	
+	font-family: arial;
+	font-size: 18px;
+
+	height: 40px;
+	width: 224px;
+
+}
+
+.button{
+	
+	background-color: #b316c4 ;
+	color: #fcba03;
+	
+	border: solid 1px black;
+	border-radius: 3px;
+
+	height: 50px;
+	width: 50px;
+	margin: 2px 2px;
+
+	font-family: arial;
+	font-size: 18px;
+}
+
+#submit{
+	width: 110px;
+}
+
+.container_display{
+	display: flex;
+	justify-content: center;
+	border: solid 2px black;
+}
+
+
+./*display_screen{
+	display: flex;
+	justify-content: center;
+	align-content : center;
+	border: solid 3px black;
+	color: red;
+	height: 20px;
+	width: 200px;}*/
+
