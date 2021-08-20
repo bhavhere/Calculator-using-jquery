@@ -1,2 +1,3 @@
-![image](https://user-images.githubusercontent.com/43774014/130269877-aee1fd0a-ae31-4a60-aabf-04b89e58086b.png)
+### A basic calculator implemented using Jquery
+<img width="956" alt="Untitled" src="https://user-images.githubusercontent.com/43774014/130270263-57fe686e-6c61-4a6a-8ed6-d86bb19c00e6.png">
 
